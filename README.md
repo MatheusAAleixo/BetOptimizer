@@ -34,3 +34,7 @@ Este script permite calcular as apostas ideais quando há três opções de odds
 
 ---
 Certifique-se de inserir valores válidos nos campos correspondentes.
+
+## Autor
+
+Este repositório é mantido por Matheus A Aleixo.
